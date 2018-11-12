@@ -14,8 +14,6 @@ Changing the RefreshInterval lower than a minute is recommended for testing
 
 The server can simply be ran by it's binary. Any configuration can be changed by editing the constants cmd/btc/main.go 
 
-I have also zipped the contents with a /bin directory. Insider there you will find a binary for Windows, Linux, and MacOS in their respective folders. Simply running the binary on your specific platform will launch the application
-
 ```
 ~/git/go/src/oden/btc
 ❯ ./bin/macOS/btc
